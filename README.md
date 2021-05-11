@@ -4,6 +4,7 @@ Books that I plan to read during the coming year.
 
 ### Currently Reading
 * [Refactoring](https://refactoring.guru/refactoring)
+* [The Prince](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
 
 ### Planning to Read Next
 * [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=0262033844&linkId=b4d06d03d78aa613353feaf654ac38b4)
