@@ -3,7 +3,6 @@
 Books that I plan to read during the coming year.
 
 ### Currently Reading
-* [Refactoring](https://refactoring.guru/refactoring)
 * [The Prince](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
 
 ### Planning to Read Next
@@ -12,6 +11,7 @@ Books that I plan to read during the coming year.
 * [Dive into Design Patterns](https://refactoring.guru/design-patterns)
 
 ### Already Read
+* [Refactoring](https://refactoring.guru/refactoring)
 * [Animal Farm](https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341)
 * [1984](https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)
 * [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
