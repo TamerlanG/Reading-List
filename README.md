@@ -3,7 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Currently Reading
-* [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
+* [Words of Radience: Book Two of the Stormlight Archives](https://www.amazon.com/Words-Radiance-Book-Stormlight-Archive/dp/0765365286)
 
 ### Planning to Read Next
 * [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=0262033844&linkId=b4d06d03d78aa613353feaf654ac38b4)
@@ -11,6 +11,7 @@ Books that I plan to read during the coming year.
 * [Dive into Design Patterns](https://refactoring.guru/design-patterns)
 
 ### Already Read
+* [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
 * [The Prince](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
 * [Refactoring](https://refactoring.guru/refactoring)
 * [Animal Farm](https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341)
