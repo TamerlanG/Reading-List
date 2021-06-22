@@ -3,7 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Currently Reading
-* [Words of Radience: Book Two of the Stormlight Archives](https://www.amazon.com/Words-Radiance-Book-Stormlight-Archive/dp/0765365286)
+* [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 
 ### Planning to Read Next
 * [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=0262033844&linkId=b4d06d03d78aa613353feaf654ac38b4)
@@ -11,6 +11,7 @@ Books that I plan to read during the coming year.
 * [Dive into Design Patterns](https://refactoring.guru/design-patterns)
 
 ### Already Read
+* [Words of Radience: Book Two of the Stormlight Archives](https://www.amazon.com/Words-Radiance-Book-Stormlight-Archive/dp/0765365286)
 * [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
 * [The Prince](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
 * [Refactoring](https://refactoring.guru/refactoring)
