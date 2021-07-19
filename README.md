@@ -6,9 +6,8 @@ Books that I plan to read during the coming year.
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 
 ### Planning to Read Next
-* [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=0262033844&linkId=b4d06d03d78aa613353feaf654ac38b4)
-* [Elements of Programming Interviews in Python](https://www.amazon.com/gp/product/1537713949/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=utsavized0d-20&creative=9325&linkCode=as2&creativeASIN=1537713949&linkId=b9e376f3473d17e5b2da081f85b24fed)
-* [Dive into Design Patterns](https://refactoring.guru/design-patterns)
+* [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+* [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
 
 ### Already Read
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
