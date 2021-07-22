@@ -2,14 +2,15 @@
 
 Books that I plan to read during the coming year.
 
-### Currently Reading
-* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
-
-### Planning to Read Next
+### Reading
 * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
-* [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
 
-### Already Read
+### Next
+* [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
+* [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
+
+### Read
+* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 * [Words of Radience: Book Two of the Stormlight Archives](https://www.amazon.com/Words-Radiance-Book-Stormlight-Archive/dp/0765365286)
 * [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M)
