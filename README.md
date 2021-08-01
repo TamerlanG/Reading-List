@@ -4,6 +4,7 @@ Books that I plan to read during the coming year.
 
 ### Reading
 * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+* [A Game of Thrones (A Song of Ice and Fire)](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714)
 
 ### Next
 * [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
