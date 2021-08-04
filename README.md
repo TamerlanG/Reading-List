@@ -3,7 +3,6 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 * [A Game of Thrones (A Song of Ice and Fire)](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714)
 
 ### Next
@@ -25,3 +24,6 @@ Books that I plan to read during the coming year.
 * [Robinson Crusoe](https://www.amazon.com/Robinson-Crusoe-Daniel-Defoe/dp/150329238X)
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 * [The Coding Career Handbook by Shawn Swyx Wang](https://www.learninpublic.org/)
+
+### Dropped
+* [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
