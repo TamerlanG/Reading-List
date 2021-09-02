@@ -3,13 +3,13 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [A Game of Thrones (A Song of Ice and Fire)](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714)
-
+* [Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels](https://www.amazon.com/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770)
 ### Next
 * [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
 * [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
 
 ### Read
+* [A Game of Thrones (A Song of Ice and Fire)](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714)
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 * [Soft Skills: The software developer's life manual](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 * [Words of Radience: Book Two of the Stormlight Archives](https://www.amazon.com/Words-Radiance-Book-Stormlight-Archive/dp/0765365286)
