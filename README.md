@@ -3,12 +3,13 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+* [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 ### Next
 * [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
 * [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
 
 ### Read
+* [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 * [Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels](https://www.amazon.com/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770)
 * [A Game of Thrones (A Song of Ice and Fire)](https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714)
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
