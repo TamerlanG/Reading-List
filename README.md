@@ -3,6 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Reading
+* [The Pixar Touch: The Making of a Company](https://www.amazon.com/Pixar-Touch-Making-Company/dp/0307278298)
 
 ### Next
 * [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
