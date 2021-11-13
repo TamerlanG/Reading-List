@@ -3,7 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-[Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
+* [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 
 ### Next
 * [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
