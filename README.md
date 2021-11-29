@@ -3,12 +3,10 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
-
-### Next
-* [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
+* [Edgedancer](https://www.amazon.com/Edgedancer-Stormlight-Archive-Brandon-Sanderson-ebook/dp/B06XRHRHPH/ref=sr_1_1?keywords=edgedancer+kindle&qid=1638151861&qsid=130-1832627-3940732&sr=8-1&sres=B06XRHRHPH%2CB01EFIH09G%2CB01NAWAH85%2CB07Q4VW3ZM%2CB003G93YLY%2CB003P2WO5E%2CB002KYHZHA&srpt=ABIS_EBOOKS)
 
 ### Read
+* [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
 * [Joel on Software](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 * [The Pixar Touch: The Making of a Company](https://www.amazon.com/Pixar-Touch-Making-Company/dp/0307278298)
 * [Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
