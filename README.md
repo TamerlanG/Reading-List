@@ -3,7 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Edgedancer](https://www.amazon.com/Edgedancer-Stormlight-Archive-Brandon-Sanderson-ebook/dp/B06XRHRHPH/ref=sr_1_1?keywords=edgedancer+kindle&qid=1638151861&qsid=130-1832627-3940732&sr=8-1&sres=B06XRHRHPH%2CB01EFIH09G%2CB01NAWAH85%2CB07Q4VW3ZM%2CB003G93YLY%2CB003P2WO5E%2CB002KYHZHA&srpt=ABIS_EBOOKS)
+* [Edgedancer: From the Stormlight Archive](https://www.amazon.com/Edgedancer-Stormlight-Archive-Brandon-Sanderson-ebook/dp/B06XRHRHPH/ref=sr_1_1?keywords=edgedancer+kindle&qid=1638151861&qsid=130-1832627-3940732&sr=8-1&sres=B06XRHRHPH%2CB01EFIH09G%2CB01NAWAH85%2CB07Q4VW3ZM%2CB003G93YLY%2CB003P2WO5E%2CB002KYHZHA&srpt=ABIS_EBOOKS)
 
 ### Read
 * [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Tom-DeMarco/dp/0932633439)
