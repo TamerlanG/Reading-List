@@ -3,7 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Reading_
-*[Oathbringer: Book Three of the Stormlight Archive (The Stormlight Archive, 3)](https://www.amazon.com/Oathbringer-Book-Three-Stormlight-Archive/dp/076532637X/ref=sr_1_1?keywords=oathbringer&qid=1638678014&sr=8-1)
+* [Oathbringer: Book Three of the Stormlight Archive (The Stormlight Archive, 3)](https://www.amazon.com/Oathbringer-Book-Three-Stormlight-Archive/dp/076532637X/ref=sr_1_1?keywords=oathbringer&qid=1638678014&sr=8-1)
 
 ### Read
 * [Edgedancer: From the Stormlight Archive](https://www.amazon.com/Edgedancer-Stormlight-Archive-Brandon-Sanderson-ebook/dp/B06XRHRHPH/ref=sr_1_1?keywords=edgedancer+kindle&qid=1638151861&qsid=130-1832627-3940732&sr=8-1&sres=B06XRHRHPH%2CB01EFIH09G%2CB01NAWAH85%2CB07Q4VW3ZM%2CB003G93YLY%2CB003P2WO5E%2CB002KYHZHA&srpt=ABIS_EBOOKS)
