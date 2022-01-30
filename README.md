@@ -3,8 +3,7 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://amzn.to/3qwTByJ)
-* [Leonardo da Vinci](https://amzn.to/32tb2s1)
+* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/34mPD40)
 
 ### Read
 * [Oathbringer: Book Three of the Stormlight Archive (The Stormlight Archive, 3)](https://www.amazon.com/Oathbringer-Book-Three-Stormlight-Archive/dp/076532637X/ref=sr_1_1?keywords=oathbringer&qid=1638678014&sr=8-1)
@@ -34,3 +33,5 @@ Books that I plan to read during the coming year.
 ### Dropped
 * [The Secret Life of Programs: Understand Computers](https://www.amazon.com/Secret-Life-Programs-Understand-Computers-ebook/dp/B07PCKLDW1)
 * [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://amzn.to/3qwTByJ)
+* [Leonardo da Vinci](https://amzn.to/32tb2s1)
