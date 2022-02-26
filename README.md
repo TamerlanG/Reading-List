@@ -3,10 +3,11 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/34mPD40)
+* [Working Effectively with Legacy Code](https://amzn.to/3hkPGAI)
 * [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://amzn.to/3p6dmNt)
 
 ### Read
+* [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/34mPD40)
 * [Dawnshard: From the Stormlight Archive](https://amzn.to/3gTNnV8)
 * [Fahrenheit 451](https://amzn.to/3rXsFKi)
 * [Oathbringer: Book Three of the Stormlight Archive (The Stormlight Archive, 3)](https://www.amazon.com/Oathbringer-Book-Three-Stormlight-Archive/dp/076532637X/ref=sr_1_1?keywords=oathbringer&qid=1638678014&sr=8-1)
