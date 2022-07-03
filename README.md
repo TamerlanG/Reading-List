@@ -3,9 +3,13 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Rhythm of War: Book Four of The Stormlight Archive](https://amzn.to/3JwjXZG)
+* [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/gp/product/1492082791)
+* [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168)
+* [Mistborn: The Final Empire](https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386)
 
 ### Read
+* [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason Paperback](https://www.amazon.com/Unconditional-Parenting-Moving-Rewards-Punishments/dp/0743487486)
+* [Rhythm of War: Book Four of The Stormlight Archive](https://amzn.to/3JwjXZG)
 * [Working Effectively with Legacy Code](https://amzn.to/3hkPGAI)
 * [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://amzn.to/3p6dmNt)
 * [Fundamentals of Software Architecture: An Engineering Approach](https://amzn.to/34mPD40)
