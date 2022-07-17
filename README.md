@@ -3,11 +3,11 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/gp/product/1492082791)
 * [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168)
-* [Mistborn: The Final Empire](https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386)
 
 ### Read
+* [Mistborn: The Final Empire](https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386)
+* [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/gp/product/1492082791)
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason Paperback](https://www.amazon.com/Unconditional-Parenting-Moving-Rewards-Punishments/dp/0743487486)
 * [Rhythm of War: Book Four of The Stormlight Archive](https://amzn.to/3JwjXZG)
 * [Working Effectively with Legacy Code](https://amzn.to/3hkPGAI)
