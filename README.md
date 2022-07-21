@@ -3,9 +3,12 @@
 Books that I plan to read during the coming year.
 
 ### Reading
-* [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168)
+* [Hiroshima](https://www.amazon.com/Hiroshima-John-Hersey/dp/0679721037)
+* [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416)
+* [Building a Second Brain](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386#:~:text=Building%20a%20Second%20Brain%3A%20A,9781982167387%3A%20Amazon.com%3A%20Books)
 
 ### Read
+* [A Brief History of Time](https://www.amazon.com/Brief-History-Time-Stephen-Hawking/dp/0553380168)
 * [Mistborn: The Final Empire](https://www.amazon.com/Mistborn-Final-Empire-Book-No/dp/0765350386)
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/gp/product/1492082791)
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason Paperback](https://www.amazon.com/Unconditional-Parenting-Moving-Rewards-Punishments/dp/0743487486)
